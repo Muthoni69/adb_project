@@ -1,4 +1,5 @@
 **Appium Automated Mobile Testing** 
+
 **Description:**
 
 > This project demonstrates automated mobile testing using Appium with Python. It focuses on testing the Android ApiDemos application, showcasing how to automate various user interactions like swipes, scrolls, and navigation.
