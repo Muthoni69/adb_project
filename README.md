@@ -92,7 +92,6 @@
 > The project includes tests for the following scenarios:
 >
 > * Swiping left to right and right to left within a gallery.
-> * Scrolling down long lists.
 > * Navigating to specific screens within the ApiDemos app.
 
 **Folder Structure:**
@@ -106,26 +105,4 @@ apidemos/
 └── README.md
 ```
 
-**Contributing:**
 
-> Contributions are welcome! Please feel free to submit pull requests or open issues to improve this project.
-
-**License:**
-
-> (Optional) Specify the license under which your project is distributed. (e.g., MIT License)
-
-**Contact:**
-
-> Your Name - [email address removed]
->
-> Project Link: [Your GitHub Repository URL]
-
-**Enhancements:**
-
-* **Add Screenshots:** Include screenshots of your tests running or the app under test.
-* **Add Code Examples:** Provide snippets of your test scripts to illustrate how Appium commands are used.
-* **Add a Video:** A short video of your tests running can be very helpful.
-* **Add Appium Doctor instructions:** add instructions on how to run appium-doctor.
-* **Add more test case descriptions:** Add more details about the test cases that are being run.
-
-Remember to customize this template with your project's specific details. Good luck!
