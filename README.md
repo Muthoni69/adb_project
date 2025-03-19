@@ -45,7 +45,7 @@
 
 1.  **Clone the repository:**
     ```bash
-    git clone [<your_repository_url>](https://github.com/Muthoni69/adb_project)
+    git clone https://github.com/Muthoni69/adb_project
     cd <your_project_directory>
     ```
 2.  **Create a virtual environment (recommended):**
